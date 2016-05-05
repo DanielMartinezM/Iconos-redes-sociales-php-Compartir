@@ -1,0 +1,36 @@
+html , body {
+	height: 100%;
+	width: 100%
+	padding:0;
+	margin: 0;
+}
+ul{
+	display: -moz-grid-line;
+	display: -webkit-box;
+	list-style: none;
+}
+li{
+	width: 150px;
+	margin-left: 10px;
+}
+.social{
+	padding: 0px 0px 0px 2px;
+	float: right;
+	vertical-align: middle;
+	margin: 1px 0px 0px;
+	margin-left: px;
+	background: rgba(0, 0, 0, 0.3) none repeat scroll 0% 0%;
+	padding: 4px;
+	color: white;
+	border-radius: 0px 5px 5px 0px;
+	font-size: 17.2px;
+}
+i{
+	font-size: 30px;
+	color: rgb(34, 116, 185);
+	background: rgba(30,40,30,0.1);
+	padding-right: 6%;
+	border-radius: 5px 0px 0px 5px;
+	padding-left: 5px;
+	width:30px; 
+}
